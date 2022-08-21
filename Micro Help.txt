@@ -1,0 +1,31 @@
+Note:
+If you want to run it via the batch doccument,please goto main-bat folder than run the file
+But if you want to run it directly,Please write those commands in order.
+---------------
+cd C:\Users\USERNAMEHERE\Downloads\maijin-main\go-ezload
+npm install
+npm start
+---------------
+If it dosnt start,Create a issue in the github page and we will find a solution for you!
+And PLEASE update your node.js version to latest if possible.
+---------------
+Please use Windows 8.1/8/10 to run it. 7 may be run with some editing
+And lastly,Windows XP might not run.
+---------------
+By the way,we are not going to make a settings batch file. You can make one if you like to.
+---------------
+Special note:Please dont copy this. If i find a copyed version of Maijin,i will not hesitate to take it down.
+---------------
+You can choose any version of chromium that supports FP PPAPI. We dont care your browser version. Just use a version that supports FP PPAPI.
+---------------
+Once the npm start done,goto 127.0.0.1 or localhost
+---------------
+Maijin use grounded 0.0.1 to run himself.
+---------------
+As a note, Install Shockwave flash and a tool to patch both flash and shockwave. I recommend FlashPatch.
+---------------
+BTW,Use offline installers of FP and Shockwave.
+---------------
+
+
+
